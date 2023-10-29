@@ -1,0 +1,33 @@
+{
+  "message": {
+    "path": "/message",
+    "method": "POST",
+    "requestBody": {
+      "friendName": "Tom",
+      "message": "the message you want to send"
+    },
+    "responseBody": "Response message1"
+  },
+  "rate": {
+    "path": "/rate",
+    "method": "POST",
+    "requestBody" : {
+      "friendName": "Mark",
+      "like": true
+    },
+    "responseBody": "successfully give rate"
+  },
+  "saveData": {
+    "path": "/saveData",
+    "method": "POST",
+    "requestBody": {},
+    "responseBody": "successfully save data to file"
+  },
+  "inspect": {
+    "path": "/inspect",
+    "method": "GET",
+    "parameterKey": "type",
+    "parameterValue": "pairs",
+    "responseBody": "the memory data structure"
+  }
+}

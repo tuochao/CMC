@@ -1,0 +1,19 @@
+friend count: 3, they are: ['tuochao', 'Tom', 'Mark']
+tuochao sent the most messages: 14
+tuochao,Mark sent the most unique messages: 3
+tuochao gave the most like/unlike: 11
+Successful (message: Hello George, friend: tuochao, response: ['George promised to be good. But it is easy for little monkeys to forget.']) pairs
+Unsuccessful (message: Hello George, friend: tuochao, response: ['Response message2', 'Response message5']) pairs
+Unsuccessful (message: Test message1, friend: Mark, response: ['Godly money ripped from the golden teeth of the unfaithful, a pragmatic extension of the big dream.']) pairs
+Successful (message: Test message2, friend: Mark, response: ['Response message1']) pairs
+Unsuccessful (message: Test message2, friend: Tom, response: ['Response message1']) pairs
+Successful (message: hello, friend: tuochao, response: ['Be careful, Martha']) pairs
+Successful (message: what's the weather today, friend: tuochao, response: ['Who’s afraid of Virginia Woolf, Virginia Woolf, Virginia Woolf,…']) pairs
+Unsuccessful (message: what's the weather today, friend: tuochao, response: ['Response message2']) pairs
+Successful (message: what's the weather today, friend: Tom, response: ['Who’s afraid of Virginia Woolf, Virginia Woolf, Virginia Woolf,…']) pairs
+Successful (message: how are you, friend: tuochao, response: ["I'm just a robot, please forgive I'm still not smart enough."]) pairs
+Unsuccessful (message: how are you, friend: tuochao, response: ['And the west, encumbered by crippling alliances, and hardened with a morality too rigid to accommodate itself to the swing of events, must…eventually…fall.']) pairs
+Successful (message: how are you, friend: Tom, response: ["I'm just a robot, please forgive I'm still not smart enough."]) pairs
+Unsuccessful (message: nan, friend: tuochao, response: ['Response message5']) pairs
+Unsuccessful (message: 2, friend: Mark, response: ['Be careful, Martha']) pairs
+Successful (message: 1, friend: Tom, response: ['Response message3']) pairs

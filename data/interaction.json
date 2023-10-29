@@ -1,0 +1,20 @@
+{
+  "tuochao": {
+    "id": "",
+    "totalMessageCount": 14,
+    "uniqueMessageCount": 3,
+    "giveRateCount": 11
+  },
+  "Tom": {
+    "id": "",
+    "totalMessageCount": 12,
+    "uniqueMessageCount": 1,
+    "giveRateCount": 5
+  },
+  "Mark": {
+    "id": "",
+    "totalMessageCount": 8,
+    "uniqueMessageCount": 3,
+    "giveRateCount": 3
+  }
+}
